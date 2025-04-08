@@ -9,9 +9,9 @@ Echo of the AI is a side-scrolling 2D platform shooter with retro pixel-art aest
 
 # 🎮 Player Controls
 
--- Move: Arrow Keys or A/D
+- Move: Arrow Keys or A/D
 
--- Jump: Spacebar (Double jump unlockable)
+- Jump: Spacebar (Double jump unlockable)
 
 -- Shoot: Left Ctrl or Left Mouse Click
 
