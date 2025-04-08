@@ -13,39 +13,39 @@ Echo of the AI is a side-scrolling 2D platform shooter with retro pixel-art aest
 
 - Jump: Spacebar (Double jump unlockable)
 
--- Shoot: Left Ctrl or Left Mouse Click
+- Shoot: Left Ctrl or Left Mouse Click
 
--- Interact/Talk to AI: E
+- Interact/Talk to AI: E
 
--- Rewind Time (after death): R
+- Rewind Time (after death): R
 
 # 🚀 Power-Ups
 
--- Time Freeze: Stops time for 3 seconds.
+- Time Freeze: Stops time for 3 seconds.
 
--- Flame Thrower: Short-range burst damage.
+- Flame Thrower: Short-range burst damage.
 
--- Laser Beam: Long-range, piercing shot.
+- Laser Beam: Long-range, piercing shot.
 
--- Health Pack: Restores health.
+- Health Pack: Restores health.
 
 ## 🧭 Game Progression
 
 # 🗺️ Levels
 
--- Level 1: Glitched Grasslands – Introduction to controls, basic enemies, simple jumps.
+- Level 1: Glitched Grasslands – Introduction to controls, basic enemies, simple jumps.
 
--- Level 2: Data Mines – Vertical level design, introduces falling platforms.
+- Level 2: Data Mines – Vertical level design, introduces falling platforms.
 
--- Level 3: Circuit Swamps – Enemies begin to evolve.
+- Level 3: Circuit Swamps – Enemies begin to evolve.
 
--- Level 4: Void Temple – Mid-boss, glitch zones.
+- Level 4: Void Temple – Mid-boss, glitch zones.
 
--- Level 5: Core Collapse – Final boss with AI showdown.
+- Level 5: Core Collapse – Final boss with AI showdown.
 
 # 📈 Difficulty
 
--- Adaptive difficulty using AI: enemies become smarter if you repeat actions too often.
+- Adaptive difficulty using AI: enemies become smarter if you repeat actions too often.
 
 # 🤖 AI Companion
 
